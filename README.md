@@ -6,7 +6,7 @@ Time series classification has attracted significant interest over the past deca
 </p>
 
 <p align="center">
-  <img width="720" src="./fss-algorithm.png">
+  <img width="1000" src="./fss-algorithm.png">
 </p>
 
 This repository provides a python numpy implementation of the shapelet candidate selection algorithm from the paper
