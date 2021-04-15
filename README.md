@@ -1,6 +1,6 @@
-# A Shapelet Selection Algorithm
+# A Fast Shapelet Selection Algorithm for Time Series Classification
 A python numpy implementation of the shapelet candidate selection algorithm from the paper Ji et al., „A Shapelet Selection Algorithm for Time Series Classification“.
-See the paper for a more detailed description.
+See the [paper](https://www.sciencedirect.com/science/article/abs/pii/S1389128618312970) for a more detailed description.
 # How to use
 
 ```python
