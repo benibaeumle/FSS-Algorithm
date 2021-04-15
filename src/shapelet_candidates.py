@@ -12,7 +12,7 @@ def argmin(iterable):
     return min(enumerate(iterable), key=lambda x: x[1])[0]
 
 
-class ShapeletCandidateSelection:
+class FastShapeletCandidates:
     """
     Generate shapelet candidates according to [1].
     Parameters

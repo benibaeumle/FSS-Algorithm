@@ -16,7 +16,7 @@ See the [paper](https://www.sciencedirect.com/science/article/abs/pii/S138912861
 # How to use
 
 ```python
-shapelet_selection = ShapeletCandidateSelection(n_lfdp = n_lfdp)
+shapelet_selection = FastShapeletCandidates(n_lfdp = n_lfdp)
 shapelet_candidates = shapelet_selection.transform(data)
 ```
 See the [demo](https://github.com/benibaeumle/A-Shapelet-Selection-Algorithm/blob/main/demo/demo.ipynb) for a more 
