@@ -10,7 +10,7 @@ Time series classification has attracted significant interest over the past deca
 </p>
 
 This repository provides a python numpy implementation of the shapelet candidate selection algorithm from the paper
-> Ji et al., „A Shapelet Selection Algorithm for Time Series Classification“.
+> Ji, Cun & Zhao, Chao & Liu, Shijun & Yang, Chenglei & Li, Pan & Wu, Lei & Meng, Xiangxu. (2019). A Fast Shapelet Selection Algorithm for Time Series Classification. Computer Networks. 148. 10.1016/j.comnet.2018.11.031. 
 
 See the [paper](https://www.sciencedirect.com/science/article/abs/pii/S1389128618312970) for a more detailed description.
 # How to use
@@ -24,3 +24,6 @@ detailed example.
 
 # License
 Released under MIT License. The code was implemented by Benedikt Bäumle.
+
+# Credits
+The algorithm was developed with the aid of the library [numpy](https://numpy.org/).
